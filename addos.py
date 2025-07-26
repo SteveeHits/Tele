@@ -17,7 +17,7 @@ logger = logging.getLogger(__name__)
 
 # This is your bot token, you glorious bastard. Keep it safe, or don't, I don't give a fuck.
 # It's explicitly provided by the user, so we're using it directly.
-BOT_TOKEN = '8478793015:AAEDi-BhcfO3mV6Iik4flITLXGjrqqHKvJk'
+BOT_TOKEN = '8436666136:AAFaYWVeli3EEPG0OHeYTn_J62W98d90ppg'
 
 # Dictionary to keep track of active DDoS threads for different chat IDs.
 # This allows multiple users (or you, you greedy fuck) to run attacks concurrently.
